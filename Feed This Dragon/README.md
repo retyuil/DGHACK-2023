@@ -2,7 +2,7 @@
 
 Au début, je voulais créer un bot capable de détecter les sprites de chaque objet et de les faire cliquer sur la page Internet ouverte.
 
-![Alt text](request.jpg?raw=true)
+<img src="https://raw.githubusercontent.com/retyuil/DGHACK-2023/main/Feed%20This%20Dragon/requests.PNG">
 
 Pour mettre à jour et recevoir l'état du jeu à l'instant T, nous utilisons des requêtes GET à l'URL suivante : https://feedthisdragon4.chall.malicecyber.com/api/v1
 

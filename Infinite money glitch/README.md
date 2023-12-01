@@ -2,7 +2,7 @@
 
 Pour ce défi, on nous demande d'extraire des codes de quatre chiffres écrits à des moments aléatoires dans une vidéo.
 
-On peut automatiser le processus de requêtes des vidéos et d'envoi des codes sur la liste web.
+On peut automatiser le processus de requêtes des vidéos et d'envoi des codes sur la page web du challenge.
 
 On peut demander autant de vidéos que l'on veut, mais on doit attendre au moins 20 secondes avant de rentrer le code correspondant à la vidéo choisie.
 
